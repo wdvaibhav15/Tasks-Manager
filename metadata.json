@@ -1,0 +1,6 @@
+{
+  "name": "Manage Tasks",
+  "description": "Collaborative project management and task board with real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
